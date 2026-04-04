@@ -12,3 +12,4 @@ This repository contains the complete **project documentation and Work Breakdown
 The documentation and WBS serve as the foundation of the StayEase project, ensuring clear planning, structured development, and efficient team collaboration throughout the project lifecycle.
 
 > 📅 Part of the Capstone Project (CS-462) under the supervision of *Mam Rahima Tanveer*.
+
